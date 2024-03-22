@@ -1,5 +1,4 @@
-<h3 💫 About Me: </h3>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3 align="left">💫 About Me:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshivnani&label=Profile%20views&color=0e75b6&style=flat" alt="kshivnani" /> </p>
 
