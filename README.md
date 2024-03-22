@@ -27,7 +27,7 @@
 
 <h1 align="left">📊 GitHub Stats:</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshivnani&show_icons=true&locale=en" alt="kshivnani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshivnani&show_icons=true&theme=react&locale=en" alt="kshivnani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kshivnani&" alt="kshivnani" /></p>
 
