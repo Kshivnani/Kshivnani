@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Reviews data to identify key insights into a business's customers and ways the data can be used to solve problems<br><br>🌱 I’m currently learning Artificial Intelligence and Machine Learning<br><br>👯 I’m looking to collaborate on Data Analyst Roles and Projects<br><br>💬 Ask me about Python,Sql,Powerbi,Excel,and any general data analyst questions.<br><br>📫 How to reach me kapilshivnani670@gmail.com<br><br>⚡ Fun fact I think I am Funny
+🔭 I’m currently working on Reviews data to identify key insights into a business's customers and ways the data can be used to solve problems<br><br>🌱 I’m currently learning Artificial Intelligence and Machine Learning<br><br>👯 I’m looking to collaborate on Data Analyst Roles and Projects<br><br>💬 Ask me about Python,Sql,Powerbi,Excel,and any general data analyst questions.<br><br>📫 How to reach me kapilshivnani670@gmail.com<br><br>⚡ Fun fact I think I am Funny4
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kshivnani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ## 🌐 Socials:
@@ -11,9 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=kshivnani&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kshivnani&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshivnani&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kshivnani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
